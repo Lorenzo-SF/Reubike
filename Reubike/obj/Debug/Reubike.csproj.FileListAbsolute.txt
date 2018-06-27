@@ -1,0 +1,5 @@
+C:\Users\lorenzo.sanchez\Documents\Lorenzo\Securitas new school\Proyectos\Mios\18 - Reubicador de archivos\Reubike\Reubike\bin\Debug\Reubike.exe.config
+C:\Users\lorenzo.sanchez\Documents\Lorenzo\Securitas new school\Proyectos\Mios\18 - Reubicador de archivos\Reubike\Reubike\bin\Debug\Reubike.exe
+C:\Users\lorenzo.sanchez\Documents\Lorenzo\Securitas new school\Proyectos\Mios\18 - Reubicador de archivos\Reubike\Reubike\bin\Debug\Reubike.pdb
+C:\Users\lorenzo.sanchez\Documents\Lorenzo\Securitas new school\Proyectos\Mios\18 - Reubicador de archivos\Reubike\Reubike\obj\Debug\Reubike.exe
+C:\Users\lorenzo.sanchez\Documents\Lorenzo\Securitas new school\Proyectos\Mios\18 - Reubicador de archivos\Reubike\Reubike\obj\Debug\Reubike.pdb
